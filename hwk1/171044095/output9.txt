@@ -1,0 +1,165 @@
+Please enter the problem size
+4
+Your initial random board is: 
+5	13	14	4	
+
+
+
+
+11	8	3	7	
+
+
+
+
+ 	12	15	10	
+
+
+
+
+1	6	9	2	
+
+
+
+
+Your move :
+s
+Your new puzzle: 
+8	4	10	3	
+
+
+
+
+5	12	2	 	
+
+
+
+
+14	13	6	11	
+
+
+
+
+9	1	15	7	
+
+
+
+
+Your move :
+s
+Your new puzzle: 
+9	3	10	7	
+
+
+
+
+14	11	4	8	
+
+
+
+
+6	15	12	5	
+
+
+
+
+13	1	2	 	
+
+
+
+
+Your move :
+s
+Your new puzzle: 
+1	14	10	13	
+
+
+
+
+3	6	7	2	
+
+
+
+
+4	 	5	12	
+
+
+
+
+9	15	8	11	
+
+
+
+
+Your move :
+s
+Your new puzzle: 
+9	15	12	 	
+
+
+
+
+8	14	7	4	
+
+
+
+
+13	6	10	11	
+
+
+
+
+3	5	2	1	
+
+
+
+
+Your move :
+i
+Intelligent move choses l
+9	15	 	12	
+
+
+
+
+8	14	7	4	
+
+
+
+
+13	6	10	11	
+
+
+
+
+3	5	2	1	
+
+
+
+
+Your move :
+r
+9	15	12	 	
+
+
+
+
+8	14	7	4	
+
+
+
+
+13	6	10	11	
+
+
+
+
+3	5	2	1	
+
+
+
+
+Your move :
+q
+Total number of moves 2
+Exiting ...
+

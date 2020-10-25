@@ -1,0 +1,349 @@
+Please enter the problem size
+3
+Your initial random board is: 
+1	2	4	
+
+
+
+
+6	8	5	
+
+
+
+
+ 	7	3	
+
+
+
+
+Your move :
+sdafj
+Error: Invalid input. Input examples: 'l', 'L', 'r', 'R', 'u', 'U', 'd', 'D'. Please try again: 
+3
+Error: Invalid input. Input examples: 'l', 'L', 'r', 'R', 'u', 'U', 'd', 'D'. Please try again: 
+2
+Error: Invalid input. Input examples: 'l', 'L', 'r', 'R', 'u', 'U', 'd', 'D'. Please try again: 
+5
+Error: Invalid input. Input examples: 'l', 'L', 'r', 'R', 'u', 'U', 'd', 'D'. Please try again: 
+r
+1	2	4	
+
+
+
+
+6	8	5	
+
+
+
+
+7	 	3	
+
+
+
+
+Your move :
+u
+1	2	4	
+
+
+
+
+6	 	5	
+
+
+
+
+7	8	3	
+
+
+
+
+Your move :
+i
+Intelligent move choses r
+1	2	4	
+
+
+
+
+6	5	 	
+
+
+
+
+7	8	3	
+
+
+
+
+Your move :
+i
+Intelligent move choses d
+1	2	4	
+
+
+
+
+6	5	3	
+
+
+
+
+7	8	 	
+
+
+
+
+Your move :
+l
+1	2	4	
+
+
+
+
+6	5	3	
+
+
+
+
+7	 	8	
+
+
+
+
+Your move :
+d
+Error. Chosen move is not possible.
+1	2	4	
+
+
+
+
+6	5	3	
+
+
+
+
+7	 	8	
+
+
+
+
+Your move :
+u
+1	2	4	
+
+
+
+
+6	 	3	
+
+
+
+
+7	5	8	
+
+
+
+
+Your move :
+s
+Your new puzzle: 
+ 	2	6	
+
+
+
+
+3	7	8	
+
+
+
+
+5	1	4	
+
+
+
+
+Your move :
+l
+Error. Chosen move is not possible.
+ 	2	6	
+
+
+
+
+3	7	8	
+
+
+
+
+5	1	4	
+
+
+
+
+Your move :
+r
+2	 	6	
+
+
+
+
+3	7	8	
+
+
+
+
+5	1	4	
+
+
+
+
+Your move :
+i
+Intelligent move choses l
+ 	2	6	
+
+
+
+
+3	7	8	
+
+
+
+
+5	1	4	
+
+
+
+
+Your move :
+i
+Intelligent move choses d
+3	2	6	
+
+
+
+
+ 	7	8	
+
+
+
+
+5	1	4	
+
+
+
+
+Your move :
+i
+Intelligent move choses r
+3	2	6	
+
+
+
+
+7	 	8	
+
+
+
+
+5	1	4	
+
+
+
+
+Your move :
+i
+Intelligent move choses r
+3	2	6	
+
+
+
+
+7	8	 	
+
+
+
+
+5	1	4	
+
+
+
+
+Your move :
+i
+Intelligent move choses d
+3	2	6	
+
+
+
+
+7	8	4	
+
+
+
+
+5	1	 	
+
+
+
+
+Your move :
+i
+Intelligent move choses l
+3	2	6	
+
+
+
+
+7	8	4	
+
+
+
+
+5	 	1	
+
+
+
+
+Your move :
+i
+Intelligent move choses r
+3	2	6	
+
+
+
+
+7	8	4	
+
+
+
+
+5	1	 	
+
+
+
+
+Your move :
+u
+3	2	6	
+
+
+
+
+7	8	 	
+
+
+
+
+5	1	4	
+
+
+
+
+Your move :
+q
+Total number of moves 9
+Exiting ...
+

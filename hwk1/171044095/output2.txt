@@ -1,0 +1,326 @@
+Please enter the problem size
+4
+Your initial random board is: 
+3	8	1	5	
+
+
+
+
+6	2	15	4	
+
+
+
+
+ 	12	7	10	
+
+
+
+
+13	14	9	11	
+
+
+
+
+Your move :
+u
+3	8	1	5	
+
+
+
+
+ 	2	15	4	
+
+
+
+
+6	12	7	10	
+
+
+
+
+13	14	9	11	
+
+
+
+
+Your move :
+u
+ 	8	1	5	
+
+
+
+
+3	2	15	4	
+
+
+
+
+6	12	7	10	
+
+
+
+
+13	14	9	11	
+
+
+
+
+Your move :
+u
+Error. Chosen move is not possible.
+ 	8	1	5	
+
+
+
+
+3	2	15	4	
+
+
+
+
+6	12	7	10	
+
+
+
+
+13	14	9	11	
+
+
+
+
+Your move :
+sdfa
+Error: Invalid input. Input examples: 'l', 'L', 'r', 'R', 'u', 'U', 'd', 'D'. Please try again: 
+askdfj
+Error: Invalid input. Input examples: 'l', 'L', 'r', 'R', 'u', 'U', 'd', 'D'. Please try again: 
+asdfkjaskjf
+Error: Invalid input. Input examples: 'l', 'L', 'r', 'R', 'u', 'U', 'd', 'D'. Please try again: 
+
+Error: Invalid input. Input examples: 'l', 'L', 'r', 'R', 'u', 'U', 'd', 'D'. Please try again: 
+r
+8	 	1	5	
+
+
+
+
+3	2	15	4	
+
+
+
+
+6	12	7	10	
+
+
+
+
+13	14	9	11	
+
+
+
+
+Your move :
+i
+Intelligent move choses r
+8	1	 	5	
+
+
+
+
+3	2	15	4	
+
+
+
+
+6	12	7	10	
+
+
+
+
+13	14	9	11	
+
+
+
+
+Your move :
+i
+Intelligent move choses r
+8	1	5	 	
+
+
+
+
+3	2	15	4	
+
+
+
+
+6	12	7	10	
+
+
+
+
+13	14	9	11	
+
+
+
+
+Your move :
+d
+8	1	5	4	
+
+
+
+
+3	2	15	 	
+
+
+
+
+6	12	7	10	
+
+
+
+
+13	14	9	11	
+
+
+
+
+Your move :
+l
+8	1	5	4	
+
+
+
+
+3	2	 	15	
+
+
+
+
+6	12	7	10	
+
+
+
+
+13	14	9	11	
+
+
+
+
+Your move :
+u
+8	1	 	4	
+
+
+
+
+3	2	5	15	
+
+
+
+
+6	12	7	10	
+
+
+
+
+13	14	9	11	
+
+
+
+
+Your move :
+s
+Your new puzzle: 
+5	2	14	 	
+
+
+
+
+12	4	11	15	
+
+
+
+
+7	10	3	1	
+
+
+
+
+8	13	9	6	
+
+
+
+
+Your move :
+d
+5	2	14	15	
+
+
+
+
+12	4	11	 	
+
+
+
+
+7	10	3	1	
+
+
+
+
+8	13	9	6	
+
+
+
+
+Your move :
+l
+5	2	14	15	
+
+
+
+
+12	4	 	11	
+
+
+
+
+7	10	3	1	
+
+
+
+
+8	13	9	6	
+
+
+
+
+Your move :
+r
+5	2	14	15	
+
+
+
+
+12	4	11	 	
+
+
+
+
+7	10	3	1	
+
+
+
+
+8	13	9	6	
+
+
+
+
+Your move :
+q
+Total number of moves 3
+Exiting ...
+
